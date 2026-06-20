@@ -1,2 +1,14 @@
 # pathleyu-notes
-HTML page archive and documentation
+
+静态文件发布目录
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
